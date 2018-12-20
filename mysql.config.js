@@ -15,10 +15,10 @@ const mysql = require('mysql');
  * database：目标数据库
  */
 const connection = mysql.createPool({
-    host: 'localhost',
-    user: 'root',
-    password: '1826001146',
-    port: 3306,
-    database: 'student'
+    host: '',
+    user: '',
+    password: '',
+    port: '',
+    database: ''
 });
 module.exports = connection;
