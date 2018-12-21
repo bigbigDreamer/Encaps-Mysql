@@ -15,7 +15,9 @@ const DB = require('./mysql.dao');
 ```
 
 #### Write your SQL and options
-```const sql = 'insert into student (Sno) values(?)';
+
+```javascript
+const sql = 'insert into student (Sno) values(?)';
 const options = ['18'];
 DB(sql,options);
 ```
