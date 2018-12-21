@@ -1,4 +1,4 @@
-# NodeJS中对于Mysql数据库部分进行简要封装
+# NodeJS中对于Mysql数据库进行简要封装
 
 ### 使用[you can view example.js]
 
