@@ -1,11 +1,9 @@
 # NodeJS中对于Mysql数据库进行简要封装
 
-
-<center>
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
-</center>
-
-### 使用[you can view example.js]
+[![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?style=popout)](https://github.com/bigbigDreamer/Encaps-Mysql)
+![](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)
+[![](https://img.shields.io/node/v/:packageName.svg)](https://github.com/bigbigDreamer/Encaps-Mysql)
 
 #### install dependencies
 
