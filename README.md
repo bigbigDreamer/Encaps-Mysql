@@ -4,6 +4,7 @@
 [![](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?style=popout)](https://github.com/bigbigDreamer/Encaps-Mysql)
 ![](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)
 [![](https://img.shields.io/node/v/:packageName.svg)](https://github.com/bigbigDreamer/Encaps-Mysql)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)    
 
 #### install dependencies
 
