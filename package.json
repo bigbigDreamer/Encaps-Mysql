@@ -4,7 +4,10 @@
   "dependencies": {
     "mysql": "^2.16.0"
   },
+  "devDependencies": {
+    "vows": "^0.7.0"
+  },
   "scripts": {
-    "test": "vows --spec"
+    "test": "npm test"
   }
 }
