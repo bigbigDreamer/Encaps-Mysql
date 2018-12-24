@@ -8,6 +8,6 @@
     "vows": "^0.7.0"
   },
   "scripts": {
-    "test": "npm test"
+    "test": "npm example"
   }
 }
