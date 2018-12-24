@@ -1,5 +1,7 @@
 # NodeJS中对于Mysql数据库进行简要封装
 
+<div style='text-align:center'>[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)</div>
+
 ### 使用[you can view example.js]
 
 #### install dependencies
