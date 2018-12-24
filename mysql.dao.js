@@ -20,7 +20,7 @@ module.exports = function (sql, options) {
             pool.release();
         })
         .catch((err) => {
-            console.log(err)
+            console.log(err);
         })
         .finally(() => {
             console.log('执行成功!');
