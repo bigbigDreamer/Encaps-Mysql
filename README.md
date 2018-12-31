@@ -5,8 +5,12 @@
 ![](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
 
+#### Clone Project
 
-#### install dependencies
+```bash
+  git clone https://github.com/bigbigDreamer/Encaps-Mysql
+```
+#### Install dependencies
 
 ```bash
 npm install
@@ -57,4 +61,4 @@ DB(sql,options);
 >如果你觉得写的还可以的话，可以简单的给一颗Star，如果还可以改进，可以PR。
 
 ### License
->[MIT](https://github.com/bigbigDreamer/Encaps-Mysql/blob/master/LICENSE ).Copyright (c) 2018 Bill Wang
+[MIT](https://github.com/bigbigDreamer/Encaps-Mysql/blob/master/LICENSE ).Copyright (c) 2018 Bill Wang
